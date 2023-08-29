@@ -4,7 +4,7 @@ a bmi calculator
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is BMI Calculator for calculting bmi index and geeting rresponses.
 
 A few resources to get you started if this is your first Flutter project:
 
